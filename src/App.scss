@@ -49,6 +49,7 @@ body{
         justify-content: center;
         align-items: center;
         
+        
      a.about{
         text-decoration: none; 
         margin-right: 4rem;
@@ -64,6 +65,25 @@ body{
 
        }
        
+    }
+
+    @media(max-width:700px){
+        .nav{
+            &-bar{
+                padding:1rem 1rem; 
+            } 
+            
+            .logo{
+                font-size: 4rem;
+            }
+
+            a.about{
+                margin-right: 1.2rem;
+            }
+        }
+        &-right{
+            justify-content: right;
+        }
     }
    
 
