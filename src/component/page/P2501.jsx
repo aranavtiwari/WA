@@ -2,7 +2,7 @@ import React from 'react'
 
 function P2501() {
     return (
-        <div>
+        <div className="page">
             <h1>India pushes back China near Sikkim Fight near Naku La</h1>
             <h4>The Indian Army foiled an attempt by the Chinese to intrude across the border in Sikkim, sources have told India Today. At least 20 PLA soldiers have been injured in the clash that reportedly took place on January 20. The Indian Army said the 'minor face-off' was resolved by local commanders.</h4>
             <p>Amid the ongoing standoff in Ladakh, India foiled an attempt by the Chinese to intrude across the border at Naku La in North Sikkim last week, as per sources. The Indian Army said the 'minor face-off' was resolved between the two sides by officers.</p>
