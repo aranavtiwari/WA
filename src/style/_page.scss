@@ -1,0 +1,40 @@
+@import "./var";
+.page{
+    padding: 0 1.3rem;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 9rem;
+
+
+    h1{
+        font-size: 4rem;
+        transition: all 2s ease;
+        color:$heading;
+    }
+    h4{
+        font-size: 1.4rem;
+        color: rgb(80, 79, 79);
+    }
+
+    p{
+        font-size: 2rem;
+        line-height: 2.7rem;
+        color: $des;
+    }
+
+    h3{
+        margin-top: 6rem;
+        font-size: 2.5rem;
+        color:$highlight
+    }
+    h2{
+        margin-top: 6rem;
+        font-size: 2.5rem;
+        color: $subheading;
+        
+    }
+ 
+    h5{
+        font-size:2rem;
+    }
+}

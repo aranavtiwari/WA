@@ -1,0 +1,54 @@
+@import "./var";
+
+.box{
+    margin-bottom: 3rem;
+    cursor: pointer;
+    max-width: 500px;
+    overflow: hidden;
+    border-bottom: 0px solid;
+    box-sizing: border-box;
+   
+    .link{
+        text-decoration: none;
+    }
+    &-heading{
+        font-size: 4rem;
+        display: block;
+        transition: all 2s ease;
+        color:$heading;
+        text-decoration: none;
+
+        &:hover{
+            
+            .border{
+                background-color: rgb(44, 224, 127);
+                box-shadow: 0px 2px 20px rgb(44, 224, 127);
+            }
+
+        }
+
+        .border{
+            margin-top: 6px;
+            height:0.8rem;
+            display: block;
+            border-radius: 2rem;
+            transition: all 1s ease;
+        }
+    }
+
+    &-description{
+        margin-top: -1rem;
+        font-size: 1.7rem;
+        line-height: 2.2rem;
+        color:"$des";
+        
+    }
+    &-date{
+        font-size:1.4rem;
+        span{
+            margin-left: 4rem;
+        }
+    }
+
+
+}
