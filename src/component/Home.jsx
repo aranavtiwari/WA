@@ -69,7 +69,7 @@ function Home() {
             date:"21-01-2021",
             country:"#World"
         },
-        {   
+        {   link:"/P2001",
             heading:"Biden to boost U.S Pakistan Military Relations Impact on India",
             description:"Washington: The objective of the incoming Joe Biden administration is to continue elevating the US’s defence partnership with India, the new defence secretary nominee told lawmakers",
             date:"20-01-2021",
