@@ -8,7 +8,7 @@ import Rgtg from './component/page/Rgtg';
 import './App.css';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Nav/>
         <App/>
         <Rgtg/>
