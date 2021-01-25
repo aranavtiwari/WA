@@ -15,7 +15,7 @@ function Home() {
     ========*/
 
     const data = [
-        {
+        {   link:"/P2501",
             heading:"India pushes back China near Sikkim Fight near Naku La ",
             description:"The Indian Army foiled an attempt by the Chinese to intrude across the border in Sikkim, sources have told India Today. At least 20 PLA soldiers have been injured in the clash that reportedly took place on January 20. The Indian Army said the 'minor face-off' was resolved by local commanders.",
             date:"25-01-2021",
