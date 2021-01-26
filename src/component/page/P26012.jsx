@@ -1,7 +1,7 @@
 import React from 'react'
 
 function P26012() {
-    return (
+    return (<>
         <div className= "page">
             <h1>Padma Awards 2021</h1>
             <h4>Singer SP Balasubrahmanyam, Former Japan PM Shinzo Abe Awarded Padma Vibhushan</h4>
@@ -17,7 +17,11 @@ function P26012() {
 </p>
 <p>Former governor late Mridula Sinha and former union minister Bijoya Bijoya Chakravarty have been named for Padma Shri.
 </p>
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
         </div>
+        </div>
+        </>
     )
 }
 

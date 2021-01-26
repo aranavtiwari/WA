@@ -19,7 +19,10 @@ Austin said his understanding is that Pakistan has taken constructive steps to m
 <p>Austin said he will focus on the shared interests which include training future Pakistan military leaders through the use of International Military Education and Training funds. Pakistan will play an important role in any political settlement in Afghanistan. “We also need to work with Pakistan to defeat al-Qaeda and the Islamic State Khorasan Province (ISIS-K) and to enhance regional stability,” he said.</p>
 <p>Observing that Pakistan is an essential partner in any peace process in Afghanistan, Austin said that if confirmed, he will encourage a regional approach that garners support from neighbours like Pakistan, while also deterring regional actors from serving as spoilers to the Afghanistan peace process.</p>
 
-
+        
+        <div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
         </div>
     )
 }

@@ -39,6 +39,10 @@ clocking defence exports worth $5 billion by 2024.<br/><br/>
 The missile --- already in service in the Indian military --- has
 an indigenous content of 96%. The missile was inducted into
 the Indian Air Force in 2014 and in the army a year later.</i></p>
+        
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
         </div>
     )
 }

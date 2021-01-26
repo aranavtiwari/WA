@@ -26,7 +26,9 @@ Both countries exchanges lists of nuclear installation and facilities according 
 
 “India handed over lists of 263 Pakistan civilian prisoners and 77 fishermen in India’s custody to Pakistan. Similarly, Pakistan has shared lists of 49 civilian prisoners and 270 fishermen in its custody, who are Indians or believed-to-be Indians,” a statement from the MEA said.</p>
         
-        
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
         </div>
     )
 }

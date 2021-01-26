@@ -119,6 +119,24 @@
   list-style-type: none;
 }
 
+.page .back {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  margin-top: 6rem;
+  padding: 6rem;
+}
+
+.page .back a {
+  font-size: 3rem;
+  text-decoration: none;
+  color: #03314b;
+  font-weight: 600;
+}
+
 @media (max-width: 700px) {
   .page {
     padding: 0rem 2rem;

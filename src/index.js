@@ -11,7 +11,6 @@ ReactDOM.render(
     <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Nav/>
         <App/>
-        <Rgtg/>
     </BrowserRouter>,
 
     document.querySelector('#root')

@@ -25,6 +25,10 @@ Amid diplomatic and military talks to find an amicable solution, close to 100,00
 The latest incident comes months after the fatal face-off that took place on June 15 when PLA soldiers clashed with Indian troops close to patrol point 14 in the Galwan valley of eastern Ladakh.
 
 The incident upsets the semblance of tense calm along the territories which the two sides have been manning with huge deployment of forces and military hardware in toughest weather conditions.</p>
+     
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
         </div>
     )
 }

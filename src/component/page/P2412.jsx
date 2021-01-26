@@ -63,7 +63,9 @@ is part of the Delhi-Mumbai Industrial Corridor
 
 (DMIC).</p>
 
-
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
 
         </div>
     )

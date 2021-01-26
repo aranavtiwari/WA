@@ -19,7 +19,9 @@ In a statement, the Ministry of External Affairs said India continues to attach 
 <p>In this regard, India supports the commencement of negotiations on a comprehensive Nuclear Weapons Convention in the Conference on Disarmament, which is the world's single multilateral disarmament negotiating forum working on the basis of consensus, the MEA said</p>       
 <p>India stands ready to work with all UN member states towards the objective of a world free of nuclear weapons, it said.</p>       
        
-       
+<div className="back">
+            <a href="/WA/">&#8592; Back</a>
+        </div>
         </div>
     )
 }
