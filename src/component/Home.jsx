@@ -6,7 +6,7 @@ function Home() {
 
     /*======
 
-        {   
+        {   link:"",
             heading:"",
             description:"",
             date:"",
@@ -15,6 +15,12 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P26012",
+            heading:"Padma Awards 2021",
+            description:"Singer SP Balasubrahmanyam, Former Japan PM Shinzo Abe Awarded Padma Vibhushan",
+            date:"26-01-2021",
+            country:"#India #Japan"
+        },
         {   link:"/P2601",
             heading:"Violence at Red Fort Republic Day 2021",
             description:"Farmers Tractor Rally: Thousands of farmers, who entered into Delhi with their tractors this morning, poured into the Red Fort complex by afternoon.",
