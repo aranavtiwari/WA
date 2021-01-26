@@ -15,6 +15,12 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P2601",
+            heading:"Violence at Red Fort Republic Day 2021",
+            description:"Farmers Tractor Rally: Thousands of farmers, who entered into Delhi with their tractors this morning, poured into the Red Fort complex by afternoon.",
+            date:"26-01-2021",
+            country:"#India"
+        },
         {   link:"/P25012",
             heading:"AKASH NG Test Fired for the First time by DRDO",
             description:"Akash-NG is a new generation Surface-to-Air Missile meant for use by the Indian Air Force with an aim of intercepting high manoeuvring aerial threats, says DRDO.",
