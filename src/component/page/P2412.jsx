@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Link} from 'react-router-dom';
 function P2412() {
     return (
         <div className="page">
@@ -64,7 +64,7 @@ is part of the Delhi-Mumbai Industrial Corridor
 (DMIC).</p>
 
 <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+            <Link to="/WA/">&#8592; Back</Link>
         </div>
 
         </div>

@@ -19,6 +19,13 @@
         
     }
 
+    .img{
+        display: block;
+        margin: 0 auto;
+        max-width: 600px;
+        height: 400px;
+    }
+
     p{
         font-size: 2rem;
         line-height: 2.7rem;
@@ -71,6 +78,11 @@
         }
         h4{
             font-size: 1.2rem;
+        }
+
+        .img{
+            width: 250px;
+            height: 150px;
         }
 
         p{

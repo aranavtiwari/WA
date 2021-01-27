@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Link} from 'react-router-dom';
 function P2601() {
     return (
         <div className="page">
@@ -21,7 +21,7 @@ The Delhi Metro Rail Corporation (DMRC) has closed the entry and exit gates at s
 In earliers visuals from ITO, one of the main intersections in Delhi near media offices and the police headquarters, policemen in riot gear appeared to be outnumbered. The policemen were seen running or hiding behind cars as farmers armed with sticks chased them with sticks and ramming their tractors into the buses parked by police.<br/><br/>
             </p>
             <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+            <Link to="/WA/">&#8592; Back</Link>
         </div>
         </div>
     )

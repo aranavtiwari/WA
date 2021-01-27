@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom';
 
 function P2301() {
     return (
@@ -20,7 +21,7 @@ In a statement, the Ministry of External Affairs said India continues to attach 
 <p>India stands ready to work with all UN member states towards the objective of a world free of nuclear weapons, it said.</p>       
        
 <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+            <Link to="/WA/">&#8592; Back</Link>
         </div>
         </div>
     )

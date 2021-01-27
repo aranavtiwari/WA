@@ -1,6 +1,6 @@
 import React from 'react'
 import Home from '../Home';
-
+import {Link} from 'react-router-dom';
 function Page1(props) {
     return (
         <div className="page">

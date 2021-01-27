@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom';
 
 function P2001() {
     return (
@@ -21,7 +22,7 @@ Austin said his understanding is that Pakistan has taken constructive steps to m
 
         
         <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+            <Link to="/WA/">&#8592; Back</Link>
         </div>
         </div>
     )

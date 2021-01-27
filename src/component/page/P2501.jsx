@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import {Link} from 'react-router-dom';;
 
 function P2501() {
     return (
@@ -27,7 +28,7 @@ The latest incident comes months after the fatal face-off that took place on Jun
 The incident upsets the semblance of tense calm along the territories which the two sides have been manning with huge deployment of forces and military hardware in toughest weather conditions.</p>
      
 <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+            <Link to="/WA/">&#8592; Back</Link>
         </div>
         </div>
     )

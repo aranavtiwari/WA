@@ -15,6 +15,13 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P2701",
+            heading:"Japan pushes back against UK plan to invite India, others to G-7 meeting",
+            description:"Prime Minister Boris Johnson, who is hosting this year's G-7, has invited South Korea, India and Australia to attend the leaders' summit in Cornwall in June",
+            date:"27-01-2021",
+            country:"#World #India #UK #Japan #G7"
+        }
+        ,
         {   link:"/P26012",
             heading:"Padma Awards 2021",
             description:"Singer SP Balasubrahmanyam, Former Japan PM Shinzo Abe Awarded Padma Vibhushan",

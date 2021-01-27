@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Link} from 'react-router-dom';
 function P26012() {
     return (<>
         <div className= "page">
@@ -18,7 +18,7 @@ function P26012() {
 <p>Former governor late Mridula Sinha and former union minister Bijoya Bijoya Chakravarty have been named for Padma Shri.
 </p>
 <div className="back">
-            <a href="/WA/">&#8592; Back</a>
+<Link to="/WA/">&#8592; Back</Link>
         </div>
         </div>
         </>
