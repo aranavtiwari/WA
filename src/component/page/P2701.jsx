@@ -37,7 +37,7 @@ For Japan though, South Korea’s participation is awkward given renewed tension
 The U.K’s other plans have been mostly welcomed by the rest of the group as an opportunity to repair and reinvigorate the G-7, and multilateralism more generally, after what the cable describes as a “dysfunctional” 2020. Under the U.S. presidency, the group failed to offer a collective response to the coronavirus pandemic, was embroiled in transatlantic spats over China and managed to produce only two joint statements.</p>
         
 <div className="back">
-            <Link to="/WA/">&#8592; Back</Link>
+<Link to="/">&#8592; Back</Link>
         </div>
         
         </div>

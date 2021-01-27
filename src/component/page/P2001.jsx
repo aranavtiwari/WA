@@ -22,7 +22,7 @@ Austin said his understanding is that Pakistan has taken constructive steps to m
 
         
         <div className="back">
-            <Link to="/WA/">&#8592; Back</Link>
+        <Link to="/">&#8592; Back</Link>
         </div>
         </div>
     )

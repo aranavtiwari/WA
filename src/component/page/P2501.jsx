@@ -28,7 +28,7 @@ The latest incident comes months after the fatal face-off that took place on Jun
 The incident upsets the semblance of tense calm along the territories which the two sides have been manning with huge deployment of forces and military hardware in toughest weather conditions.</p>
      
 <div className="back">
-            <Link to="/WA/">&#8592; Back</Link>
+<Link to="/">&#8592; Back</Link>
         </div>
         </div>
     )

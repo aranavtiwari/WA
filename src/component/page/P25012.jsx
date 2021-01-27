@@ -41,7 +41,7 @@ an indigenous content of 96%. The missile was inducted into
 the Indian Air Force in 2014 and in the army a year later.</i></p>
         
 <div className="back">
-<Link to="/WA/">&#8592; Back</Link>
+<Link to="/">&#8592; Back</Link>
         </div>
         </div>
     )

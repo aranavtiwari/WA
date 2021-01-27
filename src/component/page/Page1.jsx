@@ -77,6 +77,10 @@ Release of the documentary Palace for Putin<br/>
 Release of Alexei Navalny<br/>
 Resignation of Vladimir Putin
 </p>
+
+<div className="back">
+<Link to="/">&#8592; Back</Link>
+        </div>
         </div>
 
 
