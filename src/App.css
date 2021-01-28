@@ -178,7 +178,7 @@
 .quotes .qborder {
   margin-top: 6px;
   height: 0.8rem;
-  max-width: 18rem;
+  max-width: 16rem;
   margin-top: -2rem;
   display: block;
   border-radius: 2rem;
@@ -217,6 +217,61 @@
   .quotes {
     padding: 0 4.2rem;
   }
+}
+
+.about-section {
+  padding: 0 1.3rem;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 9rem;
+}
+
+.about-section .heading {
+  font-size: 4.8rem;
+  font-weight: 400;
+}
+
+.about-section .qborder {
+  margin-top: 6px;
+  height: 0.8rem;
+  max-width: 18rem;
+  margin-top: -2rem;
+  display: block;
+  border-radius: 2rem;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  background-color: #2ce07f;
+  -webkit-box-shadow: 0px 2px 20px #2ce07f;
+          box-shadow: 0px 2px 20px #2ce07f;
+}
+
+.about-section .intro {
+  margin-top: 9rem;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  font-weight: 400;
+  color: #5e6d7d;
+}
+
+.about-section h2 {
+  margin-top: 9rem;
+  font-size: 4rem;
+  color: #34495f;
+}
+
+.about-section h3 {
+  margin-top: 5rem;
+  margin-left: 2rem;
+  font-size: 3rem;
+  color: #34495f;
+}
+
+.about-section .waintro {
+  margin-left: 2rem;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  font-weight: 400;
+  color: #5e6d7d;
 }
 
 html {

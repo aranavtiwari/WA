@@ -14,6 +14,7 @@ import P25012 from "./page/P25012";
 import P2601 from "./page/P2601";
 import P26012 from "./page/P26012";
 import P2701 from "./page/P2701";
+import P2801 from "./page/P2801";
 import '../App.css';
 
 function App() {
@@ -32,7 +33,8 @@ function App() {
         {path:"/P25012",component:P25012},
         {path:"/P2601",component:P2601},
         {path:"/P26012",component:P26012},
-        {path:"/P2701",component:P2701}
+        {path:"/P2701",component:P2701},
+        {path:"/P2801",component:P2801}
     ]
     
     const pageLink = () => {

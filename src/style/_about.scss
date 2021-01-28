@@ -1,0 +1,54 @@
+.about-section{
+    padding: 0 1.3rem;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 9rem;
+
+    .heading{
+        font-size: 4.8rem;
+        font-weight: 400;
+        
+    }
+    .qborder{
+        
+            margin-top: 6px;
+            height:0.8rem;
+            max-width: 18rem;
+            margin-top: -2rem;
+            display: block;
+            border-radius: 2rem;
+            transition: all 1s ease;
+            background-color: rgb(44, 224, 127);
+            box-shadow: 0px 2px 20px rgb(44, 224, 127);   
+    }
+
+    .intro{
+        margin-top: 9rem;
+        font-size: 2.4rem;
+        line-height: 3rem;
+        font-weight: 400;
+        color: #5e6d7d;
+    }
+
+    h2{
+        margin-top: 9rem;
+        font-size: 4rem;
+        color: #34495f;
+    }
+
+    h3{
+        margin-top: 5rem;
+        margin-left: 2rem;
+        font-size: 3rem;
+        color: #34495f;
+    }
+
+    .waintro{
+        margin-left: 2rem;
+        font-size: 2.4rem;
+        line-height: 3rem;
+        font-weight: 400;
+        color: #5e6d7d;
+    }
+
+}

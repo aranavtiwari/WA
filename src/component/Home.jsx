@@ -15,6 +15,12 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P2801",
+            heading:"Biden’s Shock to Saudi Arabia",
+            description:"Biden Administration Pauses Controversial Arms Sales To Saudi Arabia And UAE",
+            date:"28-01-2020",
+            country:"#USA #Saudi Arabia #UAE"
+        },
         {   link:"/P2701",
             heading:"Japan pushes back against UK plan to invite India, others to G-7 meeting",
             description:"Prime Minister Boris Johnson, who is hosting this year's G-7, has invited South Korea, India and Australia to attend the leaders' summit in Cornwall in June",
