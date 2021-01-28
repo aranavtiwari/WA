@@ -126,7 +126,7 @@
   list-style-type: none;
 }
 
-.page .back {
+.back {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -137,7 +137,7 @@
   padding: 6rem;
 }
 
-.page .back a {
+.back a {
   font-size: 3rem;
   text-decoration: none;
   color: #03314b;
@@ -160,6 +160,62 @@
   }
   .page p {
     font-size: 1.8rem;
+  }
+}
+
+.quotes {
+  padding: 0 1.3rem;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 9rem;
+}
+
+.quotes .heading {
+  font-size: 4.8rem;
+  font-weight: 400;
+}
+
+.quotes .qborder {
+  margin-top: 6px;
+  height: 0.8rem;
+  max-width: 18rem;
+  margin-top: -2rem;
+  display: block;
+  border-radius: 2rem;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  background-color: #2ce07f;
+  -webkit-box-shadow: 0px 2px 20px #2ce07f;
+          box-shadow: 0px 2px 20px #2ce07f;
+}
+
+.quotes .date {
+  font-size: 2rem;
+  color: #778491;
+}
+
+.quotes .textbox {
+  margin: 8rem auto;
+}
+
+.quotes .text {
+  font-size: 2rem;
+  color: #5e6d7d;
+  font-style: italic;
+  line-height: 3rem;
+  margin-bottom: 2.4rem;
+}
+
+.quotes .text span {
+  display: block;
+  font-style: normal;
+  color: #405863;
+  font-weight: 400 !important;
+}
+
+@media (max-width: 700px) {
+  .quotes {
+    padding: 0 4.2rem;
   }
 }
 

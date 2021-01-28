@@ -1,0 +1,54 @@
+.quotes{
+    padding: 0 1.3rem;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 9rem;
+
+    .heading{
+        font-size: 4.8rem;
+        font-weight: 400;
+        
+    }
+    .qborder{
+        
+            margin-top: 6px;
+            height:0.8rem;
+            max-width: 18rem;
+            margin-top: -2rem;
+            display: block;
+            border-radius: 2rem;
+            transition: all 1s ease;
+            background-color: rgb(44, 224, 127);
+            box-shadow: 0px 2px 20px rgb(44, 224, 127);   
+    }
+    .date{
+        font-size: 2rem;
+        color: #778491
+    }
+
+    .textbox{
+        margin: 8rem auto;
+    }
+
+    .text{
+        font-size: 2rem;
+        color: #5e6d7d;
+        font-style: italic;
+        line-height: 3rem;
+        margin-bottom: 2.4rem;
+        
+        span{
+            display: block;
+            font-style: normal;
+            color:$des;
+            font-weight: 400 !important;
+
+        }
+    }
+}
+
+@media(max-width:700px){
+    .quotes{
+        padding: 0 4.2rem;
+    }
+}

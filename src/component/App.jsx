@@ -3,6 +3,7 @@ import {Link, Route, Switch} from 'react-router-dom';
 
 import Home from './Home';
 import About from './About';
+import Quotes from './Quotes';
 import P2001 from "./page/P2001";
 import T241 from "./page/Page1";
 import P2412 from "./page/P2412";
@@ -21,6 +22,7 @@ function App() {
     const pages = [
         {path:"/",component:Home},
         {path:"/about",component:About},
+        {path:"/qutoes",component:Quotes},
         {path:"/P2001",component:P2001},
         {path:"/T241",component:T241},
         {path:"/P2412",component:P2412},

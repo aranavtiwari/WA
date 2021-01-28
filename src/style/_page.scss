@@ -51,21 +51,21 @@
     li{
         list-style-type: none;
     }
-
-    .back{
-        display: flex;
-        justify-content: left;
-        margin-top: 6rem;
-        padding: 6rem;
-        a{
-            font-size: 3rem;
-            text-decoration: none;
-            color:$heading;
-            
-            font-weight: 600;
-        }
-    }
     
+}
+
+.back{
+    display: flex;
+    justify-content: left;
+    margin-top: 6rem;
+    padding: 6rem;
+    a{
+        font-size: 3rem;
+        text-decoration: none;
+        color:$heading;
+        
+        font-weight: 600;
+    }
 }
 
 
