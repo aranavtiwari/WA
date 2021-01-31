@@ -15,6 +15,12 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P3101",
+            heading:"India to spend 1.3 LAKH CRORE Rupees more on New Fighter Jets",
+            description:"Air Force chief Air Chief Marshal RKS Bhadauria had termed the Rafale as one of the strong contenders for the 114 fighter acquisition project.",
+            date:"31-01-2021",
+            country:"#India"
+        },
         {   link:"/P3001",
             heading:"Independence Means WAR - China's threat to Taiwan",
             description:"China has warned Taiwan that any attempt to seek independence 'means war'.",

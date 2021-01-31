@@ -16,6 +16,7 @@ import P26012 from "./page/P26012";
 import P2701 from "./page/P2701";
 import P2801 from "./page/P2801";
 import P3001 from "./page/P3001";
+import P3101 from "./page/P3101";
 import '../App.css';
 
 function App() {
@@ -36,7 +37,8 @@ function App() {
         {path:"/P26012",component:P26012},
         {path:"/P2701",component:P2701},
         {path:"/P2801",component:P2801},
-        {path:"/P3001",component:P3001}
+        {path:"/P3001",component:P3001},
+        {path:"/P3101",component:P3101}
 
 
     ]
