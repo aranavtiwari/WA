@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 function P2901() {
     return (
         <div className="page">
-            <h1>Biden’s Shock to Saudi Arabia Defence Deals Suspended </h1>
+            <h1>Biden Shock to Saudi Arabia Defence Deals Suspended </h1>
             <h4>President Joe Biden is temporarily freezing weapons sales to Saudi Arabia and the United Arab Emirates, pledging to review a set of controversial arms deals former President Donald Trump struck with the two U.S. allies in the waning days of his administration.</h4>
             <img src={img} className="img"/>
             <p>DUBAI, United Arab Emirates — The administration of President Joe Biden is pausing weapons sales to Gulf allies Saudi Arabia and the United Arab Emirates as part of a broader review of multibillion-dollar arms agreements made under the Trump administration.<br/><br/>
