@@ -15,6 +15,12 @@ function Home() {
     ========*/
 
     const data = [
+        {   link:"/P3001",
+            heading:"Independence Means WAR - China's threat to Taiwan",
+            description:"China has warned Taiwan that any attempt to seek independence 'means war'.",
+            date:"30-01-2021",
+            country:"#China #Taiwan #USA"
+        },
         {   link:"/P2801",
             heading:"Biden’s Shock to Saudi Arabia",
             description:"Biden Administration Pauses Controversial Arms Sales To Saudi Arabia And UAE",
