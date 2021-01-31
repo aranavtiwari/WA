@@ -30,7 +30,7 @@ function Home() {
         {   link:"/P2801",
             heading:"Biden’s Shock to Saudi Arabia",
             description:"Biden Administration Pauses Controversial Arms Sales To Saudi Arabia And UAE",
-            date:"28-01-2020",
+            date:"28-01-2021",
             country:"#USA #Saudi Arabia #UAE"
         },
         {   link:"/P2701",
