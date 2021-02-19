@@ -19,7 +19,7 @@ The forum’s European members –- France, Italy and Germany –- hold similar 
 
 European diplomats have previously told Bloomberg that doing so would mean the group risks becoming an anti-China front and that anti-China rhetoric could foment a Cold War-style standoff with Beijing, which the diplomats said the G-7 must avoid after it batted away Donald Trump’s attempts to do the same.<br/><br/>
 
-Prime Minister Boris Johnson, who is hosting this year’s G-7, has invited South Korea, India and Australia to attend the leaders’ summit in Cornwall in June. While it is standard practice for a Group of Seven host to invite guest countries, their involvement through the process is typically limited, but according to a person familiar with Johnson’s plans, the guests’ participation this year will be deeper than usual.</p>
+Prime Minister Boris Johnson, who is hosting this year’s G-7, has invited South Korea, India and Australia to atten the leaders’ summit in Cornwall in June. While it is standard practice for a Group of Seven host to invite guest countries, their involvement through the process is typically limited, but according to a person familiar with Johnson’s plans, the guests’ participation this year will be deeper than usual.</p>
 
 <h3>‘Open Societies Charter’</h3>
 
